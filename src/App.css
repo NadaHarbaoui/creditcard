@@ -1,0 +1,32 @@
+
+  .creditcard{
+    height: 400px;
+    width: 470px;
+    background-color:#e79f64ee;
+    
+
+  }
+  .title{
+    float: right;
+    margin-right: 20px;
+    color: rgba(255, 87, 45, 0.911);
+  }
+  .sim{
+    margin-left: 40px;
+    margin-top: 85px;
+  }
+  .username{
+    margin-right: 20px;
+    float: right;
+  }
+  .name{
+    margin-left: 35px;
+    margin-top: 130px;
+  }
+  .numbers{
+    margin-left: 40px;
+  }
+  .inputcontainer{
+    margin-left: 470px;
+  }
+    
